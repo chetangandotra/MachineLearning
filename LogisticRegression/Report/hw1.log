@@ -1,0 +1,3263 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  26 JAN 2017 14:11
+entering extended mode
+**./hw1.tex
+(hw1.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (nips_2016.sty
+Package: nips_2016 2016/08/08 NIPS 2016 submission/camera-ready style file
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lineno\lineno.sty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count87
+\output=\toks14
+\linenoprevgraf=\count88
+\linenumbersep=\dimen103
+\linenumberwidth=\dimen104
+\c@linenumber=\count89
+\c@pagewiselinenumber=\count90
+\c@LN@truepage=\count91
+\c@internallinenumber=\count92
+\c@internallinenumbers=\count93
+\quotelinenumbersep=\dimen105
+\bframerule=\dimen106
+\bframesep=\dimen107
+\bframebox=\box26
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count95
+\Gm@cntv=\count96
+\c@Gm@tempcnt=\count97
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+\@nipsabovecaptionskip=\skip45
+\@nipsbelowcaptionskip=\skip46
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen116
+\Hy@linkcounter=\count98
+\Hy@pagecounter=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count100
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count101
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen117
+\Fld@menulength=\count102
+\Field@Width=\dimen118
+\Fld@charsize=\dimen119
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count103
+\c@Item=\count104
+\c@Hfootnote=\count105
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count106
+\c@bookmark@seq@number=\count107
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen132
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip48
+\L@UnitsRaiseTextstyle=\skip49
+\L@UnitsRaiseScriptstyle=\skip50
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks20
+\MT@count=\count112
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen133
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count113
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen134
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count114
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count115
+\leftroot@=\count116
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count117
+\DOTSCASE@=\count118
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen136
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count119
+\c@MaxMatrixCols=\count120
+\dotsspace@=\muskip11
+\c@parentequation=\count121
+\dspbrk@lvl=\count122
+\tag@help=\toks22
+\row@=\count123
+\column@=\count124
+\maxfields@=\count125
+\andhelp@=\toks23
+\eqnshift@=\dimen137
+\alignsep@=\dimen138
+\tagshift@=\dimen139
+\tagwidth@=\dimen140
+\totwidth@=\dimen141
+\lineht@=\dimen142
+\@envbody=\toks24
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count126
+\lst@gtempboxa=\box29
+\lst@token=\toks26
+\lst@length=\count127
+\lst@currlwidth=\dimen143
+\lst@column=\count128
+\lst@pos=\count129
+\lst@lostspace=\dimen144
+\lst@width=\dimen145
+\lst@newlines=\count130
+\lst@lineno=\count131
+\lst@maxwidth=\dimen146
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count132
+\lst@skipnumbers=\count133
+\lst@framebox=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+\Gread@gobject=\count134
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (hw1.aux)
+Runaway argument?
+{{21}{15}{Weight Vector Image for 2's and 3's with $L_{2}$ norm and $\ETC.
+! File ended while scanning use of \@newl@bel.
+<inserted text> 
+                \par 
+l.79 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\openout1 = `hw1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 79.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 397.48499pt, 108.40501pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43pt, 72.27pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.48499pt
+* \textheight=650.43pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 79.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
+
+(hw1.out) (hw1.out)
+\@outlinefile=\write3
+\openout3 = `hw1.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 79.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\c@lstlisting=\count136
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen149
+\scratchbox=\box32
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen150
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks28
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 83.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 84.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
+Underfull \hbox (badness 1968) in paragraph at lines 204--205
+\T1/ptm/m/n/10 (+20) The MNIST data was down-loaded from the web-site at \T1/pt
+m/m/it/10 (+20) http://yann.lecun.com/exdb/mnist/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\T1/ptm/m/n/10 (+20) (the same link as given in PA1). To read the data, GitHub 
+li-brary at
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 204--205
+\T1/ptm/m/it/10 (+20) https://github.com/akosiorek/CSE/blob/master/MLCV/ \T1/pt
+m/m/n/10 (+20) was used, which re-turns the train-ing
+ []
+
+[5] <graphs/4a_23.JPG, id=72, 610.28pt x 315.1775pt>
+File: graphs/4a_23.JPG Graphic file (type jpg)
+ <use graphs/4a_23.JPG>
+Package pdftex.def Info: graphs/4a_23.JPG used on input line 238.
+(pdftex.def)             Requested size: 397.48499pt x 205.28615pt.
+
+<graphs/4a.JPG, id=73, 603.75563pt x 322.70563pt>
+File: graphs/4a.JPG Graphic file (type jpg)
+ <use graphs/4a.JPG>
+Package pdftex.def Info: graphs/4a.JPG used on input line 245.
+(pdftex.def)             Requested size: 397.48499pt x 212.45456pt.
+
+<graphs/4a_28.JPG, id=74, 604.75937pt x 321.2pt>
+File: graphs/4a_28.JPG Graphic file (type jpg)
+ <use graphs/4a_28.JPG>
+Package pdftex.def Info: graphs/4a_28.JPG used on input line 252.
+(pdftex.def)             Requested size: 321.51613pt x 170.76451pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/4b_23.JPG, id=75, 609.27625pt x 329.23pt>
+File: graphs/4b_23.JPG Graphic file (type jpg)
+ <use graphs/4b_23.JPG>
+Package pdftex.def Info: graphs/4b_23.JPG used on input line 259.
+(pdftex.def)             Requested size: 321.51613pt x 173.73752pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/4b_28.JPG, id=76, 610.28pt x 325.71687pt>
+File: graphs/4b_28.JPG Graphic file (type jpg)
+ <use graphs/4b_28.JPG>
+Package pdftex.def Info: graphs/4b_28.JPG used on input line 266.
+(pdftex.def)             Requested size: 321.51613pt x 171.60529pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/23WeightsImage.png, id=77, 254.9525pt x 252.945pt>
+File: graphs/23WeightsImage.png Graphic file (type png)
+
+<use graphs/23WeightsImage.png>
+Package pdftex.def Info: graphs/23WeightsImage.png used on input line 273.
+(pdftex.def)             Requested size: 101.97919pt x 101.17621pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/28WeightsImage.png, id=79, 254.9525pt x 252.945pt>
+File: graphs/28WeightsImage.png Graphic file (type png)
+
+<use graphs/28WeightsImage.png>
+Package pdftex.def Info: graphs/28WeightsImage.png used on input line 280.
+(pdftex.def)             Requested size: 101.97919pt x 101.17621pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/DifferenceWeightsImageNoReg23_28.png, id=80, 254.9525pt x 252.945pt>
+File: graphs/DifferenceWeightsImageNoReg23_28.png Graphic file (type png)
+
+<use graphs/DifferenceWeightsImageNoReg23_28.png>
+Package pdftex.def Info: graphs/DifferenceWeightsImageNoReg23_28.png used on in
+put line 287.
+(pdftex.def)             Requested size: 101.97919pt x 101.17621pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./graphs/4a_23.JPG> <./graphs/4a.JPG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./graphs/4a_28.JPG> <./graphs/4b_23.JPG> <./graphs/4b_28.JPG>] [8 <./graph
+s/23WeightsImage.png> <./graphs/28WeightsImage.png> <./graphs/DifferenceWeights
+ImageNoReg23_28.png>] [9] [10]
+<graphs/5_b_negativeInEqn.JPG, id=126, 604.2575pt x 313.17pt>
+File: graphs/5_b_negativeInEqn.JPG Graphic file (type jpg)
+
+<use graphs/5_b_negativeInEqn.JPG>
+Package pdftex.def Info: graphs/5_b_negativeInEqn.JPG used on input line 384.
+(pdftex.def)             Requested size: 397.48499pt x 206.00471pt.
+ [11 <./graphs/5_b_negativeInEqn.JPG>]
+<graphs/5_b_L1_new.JPG, id=133, 605.26125pt x 318.69063pt>
+File: graphs/5_b_L1_new.JPG Graphic file (type jpg)
+
+<use graphs/5_b_L1_new.JPG>
+Package pdftex.def Info: graphs/5_b_L1_new.JPG used on input line 393.
+(pdftex.def)             Requested size: 298.75394pt x 157.30252pt.
+ <graphs/5_c.JPG, id=134, 610.28pt x 330.73563pt>
+File: graphs/5_c.JPG Graphic file (type jpg)
+
+<use graphs/5_c.JPG>
+Package pdftex.def Info: graphs/5_c.JPG used on input line 399.
+(pdftex.def)             Requested size: 298.75394pt x 161.91046pt.
+
+<graphs/5_c_negative_l1.JPG, id=135, 615.80063pt x 328.22626pt>
+File: graphs/5_c_negative_l1.JPG Graphic file (type jpg)
+
+<use graphs/5_c_negative_l1.JPG>
+Package pdftex.def Info: graphs/5_c_negative_l1.JPG used on input line 406.
+(pdftex.def)             Requested size: 298.75394pt x 159.23962pt.
+ [12 <./graphs/5_b_L1_new.JPG> <./graphs/5_c.JPG> <./graphs/5_c_negative_l1.JPG
+>]
+<graphs/5_d_negative.JPG, id=143, 604.2575pt x 321.70187pt>
+File: graphs/5_d_negative.JPG Graphic file (type jpg)
+
+<use graphs/5_d_negative.JPG>
+Package pdftex.def Info: graphs/5_d_negative.JPG used on input line 416.
+(pdftex.def)             Requested size: 397.48499pt x 211.61702pt.
+
+<graphs/5_d_l1.JPG, id=144, 606.265pt x 336.25626pt>
+File: graphs/5_d_l1.JPG Graphic file (type jpg)
+ <use graphs/5_d_l1.JPG>
+Package pdftex.def Info: graphs/5_d_l1.JPG used on input line 424.
+(pdftex.def)             Requested size: 397.48499pt x 220.46239pt.
+
+[13 <./graphs/5_d_negative.JPG> <./graphs/5_d_l1.JPG>]
+<graphs/23Weights_l1_1.PNG, id=152, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l1_1.PNG Graphic file (type png)
+
+<use graphs/23Weights_l1_1.PNG>
+Package pdftex.def Info: graphs/23Weights_l1_1.PNG used on input line 436.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l1_10.PNG, id=153, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l1_10.PNG Graphic file (type png)
+
+<use graphs/23Weights_l1_10.PNG>
+Package pdftex.def Info: graphs/23Weights_l1_10.PNG used on input line 443.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l1_100.PNG, id=154, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l1_100.PNG Graphic file (type png)
+
+<use graphs/23Weights_l1_100.PNG>
+Package pdftex.def Info: graphs/23Weights_l1_100.PNG used on input line 450.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l1_1000.PNG, id=155, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l1_1000.PNG Graphic file (type png)
+
+<use graphs/23Weights_l1_1000.PNG>
+Package pdftex.def Info: graphs/23Weights_l1_1000.PNG used on input line 457.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+ [14 <./graphs/23Weights_l1_1.PNG> <./graphs/23Weights_l1_10.PNG> <./graphs/23W
+eights_l1_100.PNG> <./graphs/23Weights_l1_1000.PNG>]
+<graphs/23WeightsImage_Regularization.PNG, id=168, 254.9525pt x 252.945pt>
+File: graphs/23WeightsImage_Regularization.PNG Graphic file (type png)
+
+<use graphs/23WeightsImage_Regularization.PNG>
+Package pdftex.def Info: graphs/23WeightsImage_Regularization.PNG used on input
+ line 466.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l2_1.PNG, id=169, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l2_1.PNG Graphic file (type png)
+
+<use graphs/23Weights_l2_1.PNG>
+Package pdftex.def Info: graphs/23Weights_l2_1.PNG used on input line 476.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l2_10.PNG, id=170, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l2_10.PNG Graphic file (type png)
+
+<use graphs/23Weights_l2_10.PNG>
+Package pdftex.def Info: graphs/23Weights_l2_10.PNG used on input line 483.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l2_100.PNG, id=171, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l2_100.PNG Graphic file (type png)
+
+<use graphs/23Weights_l2_100.PNG>
+Package pdftex.def Info: graphs/23Weights_l2_100.PNG used on input line 490.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+<graphs/23Weights_l2_1000.PNG, id=172, 254.9525pt x 252.945pt>
+File: graphs/23Weights_l2_1000.PNG Graphic file (type png)
+
+<use graphs/23Weights_l2_1000.PNG>
+Package pdftex.def Info: graphs/23Weights_l2_1000.PNG used on input line 497.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./graphs/23WeightsImage_Regularization.PNG> <./graphs/23Weights_l2_1.PNG> 
+<./graphs/23Weights_l2_10.PNG> <./graphs/23Weights_l2_100.PNG>]
+File: graphs/23WeightsImage_Regularization.PNG Graphic file (type png)
+
+<use graphs/23WeightsImage_Regularization.PNG>
+Package pdftex.def Info: graphs/23WeightsImage_Regularization.PNG used on input
+ line 506.
+(pdftex.def)             Requested size: 127.47592pt x 126.47218pt.
+ [16 <./graphs/23Weights_l2_1000.PNG>] [17]
+<graphs/6b_softmaxLossVsEpoch.JPG, id=199, 606.76688pt x 317.68687pt>
+File: graphs/6b_softmaxLossVsEpoch.JPG Graphic file (type jpg)
+
+<use graphs/6b_softmaxLossVsEpoch.JPG>
+Package pdftex.def Info: graphs/6b_softmaxLossVsEpoch.JPG used on input line 56
+6.
+(pdftex.def)             Requested size: 341.43306pt x 178.76628pt.
+
+<graphs/6c_softmaxAccuracyVsEpoch.JPG, id=200, 600.74437pt x 319.69438pt>
+File: graphs/6c_softmaxAccuracyVsEpoch.JPG Graphic file (type jpg)
+
+<use graphs/6c_softmaxAccuracyVsEpoch.JPG>
+Package pdftex.def Info: graphs/6c_softmaxAccuracyVsEpoch.JPG used on input lin
+e 572.
+(pdftex.def)             Requested size: 341.43306pt x 181.70084pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <./graphs/6b_softmaxLossVsEpoch.JPG>]
+
+LaTeX Warning: Reference `fig:graph 6(b)' on page 19 undefined on input line 59
+3.
+
+
+LaTeX Warning: Reference `fig:graph 6(c)' on page 19 undefined on input line 59
+5.
+
+[19 <./graphs/6c_softmaxAccuracyVsEpoch.JPG>] [20]
+Overfull \hbox (315.32227pt too wide) in paragraph at lines 628--629
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+
+Overfull \hbox (18.31924pt too wide) in paragraph at lines 632--633
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (23.7193pt too wide) in paragraph at lines 633--634
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (29.11935pt too wide) in paragraph at lines 634--635
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (23.7193pt too wide) in paragraph at lines 642--643
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (29.11935pt too wide) in paragraph at lines 645--646
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.31924pt too wide) in paragraph at lines 648--649
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (29.11935pt too wide) in paragraph at lines 649--650
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.11908pt too wide) in paragraph at lines 652--653
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (23.7193pt too wide) in paragraph at lines 655--656
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.11908pt too wide) in paragraph at lines 656--657
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (23.7193pt too wide) in paragraph at lines 659--660
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.51913pt too wide) in paragraph at lines 660--661
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.31924pt too wide) in paragraph at lines 663--664
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.31924pt too wide) in paragraph at lines 664--665
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (639.32556pt too wide) in paragraph at lines 671--672
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (218.12128pt too wide) in paragraph at lines 673--674
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+
+Overfull \hbox (7.51913pt too wide) in paragraph at lines 680--681
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[21]
+Overfull \hbox (245.12155pt too wide) in paragraph at lines 687--689
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+
+Overfull \hbox (18.31924pt too wide) in paragraph at lines 691--692
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.51913pt too wide) in paragraph at lines 693--694
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (115.52023pt too wide) in paragraph at lines 702--704
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (104.72012pt too wide) in paragraph at lines 710--711
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 736.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 736.
+
+Overfull \hbox (196.52106pt too wide) in paragraph at lines 736--737
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.754 Logistic_
+               Regression_via_Gradient_Descent.py
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.755 \begin{lstlisting}
+                        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.755 \begin{lstlisting}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.755 \begin{lstlisting}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.755 \begin{lstlisting}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+\lst@GetLineInterval ...r \lst@GLI \lst@linerange 
+                                                  \@nil 
+l.755 \begin{lstlisting}
+                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ including all graph plots """ import numpy import math import matplo\ETC.
+! Paragraph ended before \lst@GLI was complete.
+<to be read again> 
+                   \par 
+l.766 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.767 from LoadMNIST import load_
+                                 mnist
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.768 #
+       ----------------------------------------Utility functions------------...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.770     #
+           load MNIST data using libraries available
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.773 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.774     training_
+                   data = flatArray(N, 784, training_data) #training_data is...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.774 ...data = flatArray(N, 784, training_data) #
+                                                  training_data is N x 784 m...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.778 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 774--778
+[]\T1/ptm/m/n/9 (+20) training$[]\OML/cmm/m/it/9 ata \OT1/cmr/m/n/9 = \OML/cmm/
+m/it/9 flatArray\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 N; \OT1/cmr/m/n/9 784\OML/cmm/m
+/it/9 ; training[]ata\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 training[]ataisNx\OT1/cmr/
+m/n/9 784\OML/cmm/m/it/9 matrixtraining[]abels \OT1/cmr/m/n/9 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.779     #
+            adding column of 1s for bias
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.780     training_
+                   data = addOnesColAtStart(training_data)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.782 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 779--782
+[]\T1/ptm/m/n/9 (+20) adding col-umn of 1s for bias training$[]\OML/cmm/m/it/9 
+ata \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 addOnesColAtStart\OT1/cmr/m/n/9 (\OML/cmm/
+m/it/9 training[]ata\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 test[]ata \OT1/cmr/m/n/9 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.783     #
+            Last 10% of training data size will be considered as the validat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.784     N_
+            validation = int (N / 10)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.788     #
+           update training data to remove validation data
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.791 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 783--791
+[]\T1/ptm/m/n/9 (+20) Last 10N$[]\OML/cmm/m/it/9 alidation \OT1/cmr/m/n/9 = \OM
+L/cmm/m/it/9 int\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 N=\OT1/cmr/m/n/9 10)\OML/cmm/m/
+it/9 validation[]ata \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 training[]ata\OT1/cmr/m/n
+/9 [\OML/cmm/m/it/9 N \OMS/cmsy/m/n/9   \OML/cmm/m/it/9 N[]alidation \OT1/cmr/m
+/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--791
+\OML/cmm/m/it/9 N\OT1/cmr/m/n/9 ]\OML/cmm/m/it/9 validation[]abels \OT1/cmr/m/n
+/9 = \OML/cmm/m/it/9 training[]abels\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 N \OMS/cmsy
+/m/n/9   \OML/cmm/m/it/9 N[]alidation \OT1/cmr/m/n/9 : \OML/cmm/m/it/9 N\OT1/cm
+r/m/n/9 ]\OML/cmm/m/it/9 N \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 N \OMS/cmsy/m/n/9  
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--791
+\OML/cmm/m/it/9 N[]alidationupdatetrainingdatatoremovevalidationdatatraining[]a
+ta \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 training[]ata\OT1/cmr/m/n/9 [:
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.792     return training_
+                          data, training_labels, test_data, test_labels, val...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.793 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.795     flattened_
+                    arr = numpy.zeros(shape=(rows, cols))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.803 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--803
+[]\T1/ptm/m/n/9 (+20) def flatAr-ray(rows, cols, twoDArr): flattened$[]\OML/cmm
+/m/it/9 rr \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 numpy:zeros\OT1/cmr/m/n/9 (\OML/cmm
+/m/it/9 shape \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.806     newMatrix = numpy.c_
+                              [Ones, matrix]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.808 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--808
+[]\T1/ptm/m/n/9 (+20) def ad-dOnesCo-lAt-Start(matrix): Ones = numpy.ones(len(m
+atrix)) new-Ma-trix =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.809 #
+        custom sigmoid function; if -x is too large, return value 0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.816 def extract_
+                  digit_specific_data(digits, data, label):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.830 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 816--830
+[]\T1/ptm/m/n/9 (+20) def extract$[]\OML/cmm/m/it/9 igit[]pecific[]ata\OT1/cmr/
+m/n/9 (\OML/cmm/m/it/9 digits; data; label\OT1/cmr/m/n/9 ) : \OML/cmm/m/it/9 pr
+uned[]ata \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 numpy:zeros\OT1/cmr/m/n/9 (\OML/cmm/
+m/it/9 shape \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 816--830
+\OT1/cmr/m/n/9 (1\OML/cmm/m/it/9 ; len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 data\OT1/
+cmr/m/n/9 [0])))\OML/cmm/m/it/9 pruned[]abels \OT1/cmr/m/n/9 = []\OML/cmm/m/it/
+9 cnt \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 foriinrange\OT1/cmr/m/n/9 (0\OML/cmm/m/
+it/9 ; len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 label\OT1/cmr/m/n/9 )) : \OML/cmm/m/i
+t/9 iflabel\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]\OML/cmm/m/it/9 ind
+igits \OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--830
+\OML/cmm/m/it/9 addRowToMatrix\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 pruned[]ata; data
+\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ])\OML/cmm/m/it/9 pruned[]abels
+:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digits:get\OT1/cmr/m/n/9 (\OML/cmm/m/it/
+9 label\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]))\OML/cmm/m/it/9 cnt \
+OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.838 def calculate_
+                    log_liikelihood(data, label, weights, t):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.841         #
+               print(numpy.log(sigmoid(numpy.dot(weights, data[j]))))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.843 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 838--843
+[]\T1/ptm/m/n/9 (+20) def calculate$[]\OML/cmm/m/it/9 og[]iikelihood\OT1/cmr/m/
+n/9 (\OML/cmm/m/it/9 data; label; weights; t\OT1/cmr/m/n/9 ) : \OML/cmm/m/it/9 
+log[]ikelihood \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 0\OML/cmm/m/it
+/9 forjinrange\OT1/cmr/m/n/9 (0\OML/cmm/m/it/9 ; t\OT1/cmr/m/n/9 ) :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--843
+\OML/cmm/m/it/9 print\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:log\OT1/cmr/m/n/9 (\
+OML/cmm/m/it/9 sigmoid\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:dot\OT1/cmr/m/n/9 (
+\OML/cmm/m/it/9 weights; data\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ])
+)))\OML/cmm/m/it/9 log[]ikelihood\OT1/cmr/m/n/9 + = (\OML/cmm/m/it/9 label\OT1/
+cmr/m/n/9 [\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ] \OMS/cmsy/m/n/9 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.844     return -1*log_
+                        likelihood/t
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.845 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.846 #
+        5.b, 5.c - Plot of Percent correct on training data v/s iterations,
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.847 #
+       length of weight vector v/s lambda
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.848 def plotlyGraphsRegularization(error_
+                                           plot_array, lamda_vals, graph_nam...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.850 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 846--850
+[]\T1/ptm/m/n/9 (+20) 5.b, 5.c - Plot of Per-cent cor-rect on train-ing data v/
+s it-er-a-tions, length of weight vec-tor v/s
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.853     for i in range(len(lamda_
+                                   vals)):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.855         #
+               y1 = y1[:min_index[i]]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.857 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 853--857
+[]\T1/ptm/m/n/9 (+20) for i in range(len(lamda$[]\OML/cmm/m/it/9 als\OT1/cmr/m/
+n/9 )) : \OML/cmm/m/it/9 y\OT1/cmr/m/n/9 1 = \OML/cmm/m/it/9 error[]lot[]rray\O
+T1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 
+1 = \OML/cmm/m/it/9 y\OT1/cmr/m/n/9 1[: \OML/cmm/m/it/9 min[]ndex\OT1/cmr/m/n/9
+ [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]]\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 1 = [\OML/c
+mm/m/it/9 j \OT1/cmr/m/n/9 +
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.861 ...        name = 'lambda = ' + (str)(lamda_
+                                                  vals[i]), # Style name/leg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.861 ...e = 'lambda = ' + (str)(lamda_vals[i]), #
+                                                   Style name/legend entry w...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.864 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (78.544pt too wide) in paragraph at lines 858--864
+[]\T1/ptm/m/n/9 (-20) trace1 = go.Scatter( x=x1, y=y1, name = 'lambda = ' + (st
+r)(lamda$[]\OML/cmm/m/it/9 als\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]
+)\OML/cmm/m/it/9 ; Stylename=legendentrywithhtmltagsconnectgaps \OT1/cmr/m/n/9 
+=
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.869     py1.iplot(fig, filename=graph_
+                                        name)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.870 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.871 def plotlyGraphs(error_
+                             plot_array, labels, name):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.874 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.876         y1 = error_
+                         plot_array[i]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.879 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.883             name = str(labels[i]), #
+                                           Style name/legend entry with html...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[23]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.891 def early_
+                stopping(early_stopping_horizon, accuracy, i):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.899 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.900         if(counter == early_
+                                  stopping_horizon):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.904 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.905 def calculate_
+                    error(weights, data, label):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.914 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 905--914
+\OML/cmm/m/it/9 sigmoid\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:dot\OT1/cmr/m/n/9 
+(\OML/cmm/m/it/9 weights; data\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ]
+))\OML/cmm/m/it/9 if\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 prediction > \OT1/cmr/m/n/9
+ 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 5\OML/cmm/m/it/9 andlabel\OT1/cmr/m/n/9 [\OML
+/cmm/m/it/9 j\OT1/cmr/m/n/9 ]! = 1) : \OML/cmm/m/it/9 error\OT1/cmr/m/n/9 + =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.918 def fit(training_
+                       data, training_label, test_data, test_label, validati...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.920 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (25.94273pt too wide) in paragraph at lines 918--920
+[]\T1/ptm/m/n/9 (-20) def fit(training$[]\OML/cmm/m/it/9 ata; training[]abel; t
+est[]ata; test[]abel; validation[]ata; validation[]abel; digits; learning[]ate 
+\OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.921     t = len(training_
+                           data)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.929 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.930     for lamda in lamda_
+                             vals:
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.934 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.5088pt too wide) in paragraph at lines 930--934
+[]\T1/ptm/m/n/9 (-20) for lamda in lamda$[]\OML/cmm/m/it/9 als \OT1/cmr/m/n/9 :
+ \OML/cmm/m/it/9 weights \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 numpy:matrix\OT1/cmr/
+m/n/9 (\OML/cmm/m/it/9 numpy:zeros\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 len\OT1/cmr/m
+/n/9 (\OML/cmm/m/it/9 training[]ata\OT1/cmr/m/n/9 [0])))\OML/cmm/m/it/9 weights
+[]rray \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.935         accuracy_
+                       plot_training = []
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.938 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.939         log_
+                  likelihood_training = []
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.944 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.946             #
+                    initialise Gradient
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.947 ... = numpy.matrix(numpy.zeros(len(training_
+                                                  data[0])))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.949 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--949
+[]\T1/ptm/m/n/9 (+20) for i in range(0, it-er-a-tion):  ini-tialise Gra-di-ent 
+gra-di-ent =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.950             norm_
+                       term = []
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.955 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.956             #
+                    calculate gradient over all the samples
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.958                 #
+                        update gradient
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.959                 gradient += ((training_
+                                             label[j]) - sigmoid(numpy.dot(w...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.965                     #
+                            re-initialise Gradient
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.967                     #
+                            calculating log likelhood of training, validatio...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.971 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--971
+[]\T1/ptm/m/n/9 (+20) calculate gra-di-ent over all the sam-ples for j in range
+(0,t):  up-date gra-di-ent gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--971
+\T1/ptm/m/n/9 (+20) di-ent += ((training$[]\OML/cmm/m/it/9 abel\OT1/cmr/m/n/9 [
+\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ]) \OMS/cmsy/m/n/9   \OML/cmm/m/it/9 sigmoid\OT
+1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:dot\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights; 
+training[]ata\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ]))) \OMS/cmsy/m/n
+/9 
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 956--971
+\OML/cmm/m/it/9 numpy:array\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 training[]ata\OT1/cm
+r/m/n/9 [\OML/cmm/m/it/9 j\OT1/cmr/m/n/9 ])\OML/cmm/m/it/9 cnt\OT1/cmr/m/n/9 + 
+= 1\OML/cmm/m/it/9 if\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 batch[]ize\OT1/cmr/m/n/9 !
+ = 0\OML/cmm/m/it/9 andcnt \OT1/cmr/m/n/9 == (\OML/cmm/m/it/9 int\OT1/cmr/m/n/9
+ )(\OML/cmm/m/it/9 t=batch[]ize\OT1/cmr/m/n/9 )) :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--971
+\OML/cmm/m/it/9 cnt \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 weight[]ector[]ength:appe
+nd\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:linalg:norm\OT1/cmr/m/n/9 (\OML/cmm/m/i
+t/9 weights\OT1/cmr/m/n/9 ))\OML/cmm/m/it/9 weights \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--971
+\OML/cmm/m/it/9 weights \OT1/cmr/m/n/9 + \OML/cmm/m/it/9 learning[]ate \OMS/cms
+y/m/n/9  \OT1/cmr/m/n/9 (\OML/cmm/m/it/9 gradient \OMS/cmsy/m/n/9   \OML/cmm/m
+/it/9 norm[]erm\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 re \OMS/cmsy/m/n/9   \OML/cmm/m/
+it/9 initialiseGradientgradient \OT1/cmr/m/n/9 =
+ []
+
+
+Overfull \hbox (1296.74971pt too wide) in paragraph at lines 956--971
+\OML/cmm/m/it/9 numpy:matrix\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:zeros\OT1/cmr
+/m/n/9 (\OML/cmm/m/it/9 len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 training[]ata\OT1/cm
+r/m/n/9 [0])))\OML/cmm/m/it/9 calculatingloglikelhoodoftraining; validationandt
+estdatasetlog[]ikelihood[]raining:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 calcula
+te[]og[]iikelihood\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 training[]ata; training[]abel
+; weights; t\OT1/cmr/m/n/9 ))\OML/cmm/m/it/9 log[]ikelihood[]alidation:append\O
+T1/cmr/m/n/9 (\OML/cmm/m/it/9 calculate[]og[]iikelihood\OT1/cmr/m/n/9 (\OML/cmm
+/m/it/9 validation[]ata; validation[]abel; weights; len\OT1/cmr/m/n/9 (\OML/cmm
+/m/it/9 validation[]ata\OT1/cmr/m/n/9 )))\OML/cmm/m/it/9 log[]ikelihood[]esting
+:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 calculate[]og[]iikelihood\OT1/cmr/m/n/9 
+(\OML/cmm/m/it/9 test[]ata; test[]abel; weights; len\OT1/cmr/m/n/9 (\OML/cmm/m/
+it/9 test[]ata\OT1/cmr/m/n/9 )))$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.972             if (batch_
+                            size == 0):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.974                 #
+                        update weights vector according to the update rule o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.976 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (260.77705pt too wide) in paragraph at lines 972--976
+[]\T1/ptm/m/n/9 (-20) if (batch$[]\OML/cmm/m/it/9 ize \OT1/cmr/m/n/9 == 0) : \O
+ML/cmm/m/it/9 weight[]ector[]ength:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 numpy:
+linalg:norm\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights\OT1/cmr/m/n/9 ))\OML/cmm/m/i
+t/9 updateweightsvectoraccordingtotheupdateruleofGradientdescentmethodweights \
+OT1/cmr/m/n/9 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.977                 #
+                        calculating log likelhood of training, validation an...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.978             log_
+                      likelihood_training.append(calculate_log_liikelihood(t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.981 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--981
+[]\T1/ptm/m/n/9 (+20) calculating log likel-hood of train-ing, val-i-da-tion an
+d test dataset
+ []
+
+
+Overfull \hbox (839.51534pt too wide) in paragraph at lines 977--981
+\T1/ptm/m/n/9 (-20) log$[]\OML/cmm/m/it/9 ikelihood[]raining:append\OT1/cmr/m/n
+/9 (\OML/cmm/m/it/9 calculate[]og[]iikelihood\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 tr
+aining[]ata; training[]abel; weights; t\OT1/cmr/m/n/9 ))\OML/cmm/m/it/9 log[]ik
+elihood[]alidation:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 calculate[]og[]iikelih
+ood\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation[]ata; validation[]abel; weights; 
+len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation[]ata\OT1/cmr/m/n/9 )))\OML/cmm/m/
+it/9 log[]ikelihood[]esting:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 calculate[]og
+[]iikelihood\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 test[]ata; test[]abel; weights; len
+\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 test[]ata\OT1/cmr/m/n/9 )))$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.982             #
+                    anneling of learning rate
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.983             learning_
+                           rate = learning_rate/(1+i/T)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.984 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.985             #
+                    calculating error percentage on train, test and validati...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.986             accuracy_
+                           plot_training.append((len(training_data) - calcul...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.989 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 985--989
+[]\T1/ptm/m/n/9 (+20) calculating er-ror per-cent-age on train, test and val-i-
+da-tion data
+ []
+
+
+Overfull \hbox (21.29312pt too wide) in paragraph at lines 985--989
+\T1/ptm/m/n/9 (-20) accuracy$[]\OML/cmm/m/it/9 lot[]raining:append\OT1/cmr/m/n/
+9 ((\OML/cmm/m/it/9 len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 training[]ata\OT1/cmr/m/
+n/9 ) \OMS/cmsy/m/n/9   \OML/cmm/m/it/9 calculate[]rror\OT1/cmr/m/n/9 (\OML/cmm
+/m/it/9 weights; training[]ata; training[]abel\OT1/cmr/m/n/9 )) \OMS/cmsy/m/n/9
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 985--989
+\OT1/cmr/m/n/9 100\OML/cmm/m/it/9 =len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 training[
+]ata\OT1/cmr/m/n/9 ))\OML/cmm/m/it/9 accuracy[]lot[]alidation:append\OT1/cmr/m/
+n/9 ((\OML/cmm/m/it/9 len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation[]ata\OT1/cm
+r/m/n/9 ) \OMS/cmsy/m/n/9  
+ []
+
+
+Overfull \hbox (117.38046pt too wide) in paragraph at lines 985--989
+\OML/cmm/m/it/9 calculate[]rror\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights; validat
+ion[]ata; validation[]abel\OT1/cmr/m/n/9 )) \OMS/cmsy/m/n/9  \OT1/cmr/m/n/9 10
+0\OML/cmm/m/it/9 =len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation[]ata\OT1/cmr/m/
+n/9 ))\OML/cmm/m/it/9 accuracy[]lot[]esting:append\OT1/cmr/m/n/9 ((\OML/cmm/m/i
+t/9 len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 test[]ata\OT1/cmr/m/n/9 ) \OMS/cmsy/m/n/
+9  
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.990             weights_
+                          array.append(weights)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.991 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.992             #
+                    check for early stopping
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.993             early_
+                        stopping_horizon = 15
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.999 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--999
+[]\T1/ptm/m/n/9 (+20) check for early stop-ping early$[]\OML/cmm/m/it/9 topping
+[]orizon \OT1/cmr/m/n/9 = 15\OML/cmm/m/it/9 min[]rror[]ndex \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1000         weight_
+                      vector_length_array.append(weight_vector_length)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1002 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1003         log_
+                   likelihood_array.append(log_likelihood_training);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1010 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1050.32231pt too wide) in paragraph at lines 1003--1010
+[]\T1/ptm/m/n/9 (-20) log$[]\OML/cmm/m/it/9 ikelihood[]rray:append\OT1/cmr/m/n/
+9 (\OML/cmm/m/it/9 log[]ikelihood[]raining\OT1/cmr/m/n/9 ); \OML/cmm/m/it/9 log
+[]ikelihood[]rray:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 log[]ikelihood[]alidati
+on\OT1/cmr/m/n/9 ); \OML/cmm/m/it/9 log[]ikelihood[]rray:append\OT1/cmr/m/n/9 (
+\OML/cmm/m/it/9 log[]ikelihood[]esting\OT1/cmr/m/n/9 ); \OML/cmm/m/it/9 accurac
+y[]lot[]rray:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 accuracy[]lot[]raining\OT1/c
+mr/m/n/9 )\OML/cmm/m/it/9 accuracy[]lot[]rray:append\OT1/cmr/m/n/9 (\OML/cmm/m/
+it/9 accuracy[]lot[]alidation\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 accuracy[]lot[]rra
+y:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 accuracy[]lot[]esting\OT1/cmr/m/n/9 )\O
+ML/cmm/m/it/9 accuracy[]lot[]raining[]rray:append\OT1/cmr/m/n/9 (\OML/cmm/m/it/
+9 accuracy[]lot[]raining\OT1/cmr/m/n/9 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1011         test_
+                    error = (calculate_error(weights, test_data, test_label)...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1016 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (80.0762pt too wide) in paragraph at lines 1011--1016
+\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 calculate[]rror\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 
+weights; validation[]ata; validation[]abel\OT1/cmr/m/n/9 ) \OMS/cmsy/m/n/9  \O
+T1/cmr/m/n/9 100)\OML/cmm/m/it/9 =len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation
+[]ata\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 print\OT1/cmr/m/n/9 ([]\OML/cmm/m/it/9 Err
+oronvalidationdataset \OT1/cmr/m/n/9 :[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1016
+\OT1/cmr/m/n/9 +\OML/cmm/m/it/9 str\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 validation[]
+rror\OT1/cmr/m/n/9 ) +[] \OML/cmm/m/it/9 print\OT1/cmr/m/n/9 ([]\OML/cmm/m/it/9
+ Errorontestdataset \OT1/cmr/m/n/9 :[] +\OML/cmm/m/it/9 str\OT1/cmr/m/n/9 (\OML
+/cmm/m/it/9 test[]rror\OT1/cmr/m/n/9 ) +[]
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1017     #
+            For single lambda value
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1018     if (len(lamda_
+                         vals) == 1):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1021     #
+            else:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.1022         #
+                For multiple lambda values
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.1023         #
+                plotlyGraphsRegularization(accuracy_plot_training_array, lam...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.1024         #
+                plotlyGraphsRegularization(weight_vector_length_array, lamda...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.1025         #
+                plotlyErrorVsLamda(test_error_array, lamda_vals)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1026 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (613.31203pt too wide) in paragraph at lines 1017--1026
+[]\T1/ptm/m/n/9 (-20) For sin-gle lambda value if (len(lamda$[]\OML/cmm/m/it/9 
+als\OT1/cmr/m/n/9 ) == 1) : \OML/cmm/m/it/9 plotlyGraphs\OT1/cmr/m/n/9 (\OML/cm
+m/m/it/9 log[]ikelihood[]rray; \OT1/cmr/m/n/9 [[]\OML/cmm/m/it/9 TrainingSet[];
+[] ValidationSet[];[] TestSet[]\OT1/cmr/m/n/9 ]\OML/cmm/m/it/9 ;[] LogLikelihoo
+dPlot[]\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 plotlyGraphs\OT1/cmr/m/n/9 (\OML/cmm/m/i
+t/9 accuracy[]lot[]rray; \OT1/cmr/m/n/9 [[]\OML/cmm/m/it/9 TrainingSet[];[] Val
+idationSet[];[] TestSet[]\OT1/cmr/m/n/9 ]\OML/cmm/m/it/9 ;[] PercentCorrectPlot
+[]\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 else \OT1/cmr/m/n/9 :
+ []
+
+
+Overfull \hbox (686.4766pt too wide) in paragraph at lines 1017--1026
+\OML/cmm/m/it/9 FormultiplelambdavaluesplotlyGraphsRegularization\OT1/cmr/m/n/9
+ (\OML/cmm/m/it/9 accuracy[]lot[]raining[]rray; lamda[]als; \OT1/cmr/m/n/9 "\OM
+L/cmm/m/it/9 AccuracyvsEpoch\OT1/cmr/m/n/9 ")\OML/cmm/m/it/9 plotlyGraphsRegula
+rization\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weight[]ector[]ength[]rray; lamda[]als;
+ \OT1/cmr/m/n/9 "\OML/cmm/m/it/9 WeightVectorLengthvsEpoch\OT1/cmr/m/n/9 ")\OML
+/cmm/m/it/9 plotlyErrorVsLamda\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 test[]rror[]rray;
+ lamda[]als\OT1/cmr/m/n/9 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1027     #
+             printing error on training and testing dataset
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1028     return weights_
+                          for_all_lamda
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1029 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1030 def plot_
+                weights(weights):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1034         #
+                 Plot weights as image after removing bias terms. The rest o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1041 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1041
+\OML/cmm/m/it/9 Plotweightsasimageafterremovingbiasterms:Therestofcolumnsarepix
+elsprint\OT1/cmr/m/n/9 ([]\OML/cmm/m/it/9 lambda \OT1/cmr/m/n/9 =[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1041
+\OT1/cmr/m/n/9 +\OML/cmm/m/it/9 str\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 lamda[]als\O
+T1/cmr/m/n/9 [\OML/cmm/m/it/9 i\OT1/cmr/m/n/9 ]))\OML/cmm/m/it/9 i\OT1/cmr/m/n/
+9 + = 1\OML/cmm/m/it/9 pixels\OT1/cmr/m/n/9 1 = \OML/cmm/m/it/9 dropFirstColumn
+\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 w\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 pixels \OT1/cm
+r/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1042 def l2_
+              norm(lamda, weights):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1044 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1045 def l1_
+              norm(lamda, weights):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1051 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 1045--1051
+[]\T1/ptm/m/n/9 (+20) def l1$[]\OML/cmm/m/it/9 orm\OT1/cmr/m/n/9 (\OML/cmm/m/it
+/9 lamda; weights\OT1/cmr/m/n/9 ) : \OML/cmm/m/it/9 w \OT1/cmr/m/n/9 = \OML/cmm
+/m/it/9 numpy:ones\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 len\OT1/cmr/m/n/9 (\OML/cmm/m
+/it/9 weights\OT1/cmr/m/n/9 ))\OML/cmm/m/it/9 foriinrange\OT1/cmr/m/n/9 (\OML/c
+mm/m/it/9 len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights\OT1/cmr/m/n/9 )) :
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1052 #
+         5.d - Final test error v/s Lambda values graph
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.1053 #
+         Generates bar graphs
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1054 def plotlyErrorVsLamda(test_
+                                   error_array, lamda_vals):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1062 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1052--1062
+[]\T1/ptm/m/n/9 (+20) 5.d - Fi-nal test er-ror v/s Lambda val-ues graph  Gen-er
+-ates bar graphs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1052--1062
+\T1/ptm/m/n/9 (+20) def plotlyErrorVsLamda(test$[]\OML/cmm/m/it/9 rror[]rray; l
+amda[]als\OT1/cmr/m/n/9 ) : \OML/cmm/m/it/9 lamda[]als\OT1/cmr/m/n/9 1 =
+ []
+
+
+Overfull \hbox (6.7222pt too wide) in paragraph at lines 1052--1062
+\OT1/cmr/m/n/9 [\OML/cmm/m/it/9 math:log\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 lamda\O
+T1/cmr/m/n/9 )\OML/cmm/m/it/9 forlamdainlamda[]als\OT1/cmr/m/n/9 ]\OML/cmm/m/it
+/9 py\OT1/cmr/m/n/9 1\OML/cmm/m/it/9 :sign[]n\OT1/cmr/m/n/9 ([]\OML/cmm/m/it/9 
+chetang[];[] vil\OT1/cmr/m/n/9 7\OML/cmm/m/it/9 vTAuCSWt\OT1/cmr/m/n/9 2\OML/cm
+m/m/it/9 lEZvaH\OT1/cmr/m/n/9 9[])\OML/cmm/m/it/9 trace \OT1/cmr/m/n/9 =
+ []
+
+
+Overfull \hbox (105.07645pt too wide) in paragraph at lines 1052--1062
+\OT1/cmr/m/n/9 []\OML/cmm/m/it/9 colors \OT1/cmr/m/n/9 = [[]\OML/cmm/m/it/9 rgb
+\OT1/cmr/m/n/9 (104\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 224\OML/cmm/m/it/9 ; \OT1/c
+mr/m/n/9 204)[]\OML/cmm/m/it/9 ;[] rgb\OT1/cmr/m/n/9 (204\OML/cmm/m/it/9 ; \OT1
+/cmr/m/n/9 204\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 204)[]\OML/cmm/m/it/9 ;[] rgb\OT
+1/cmr/m/n/9 (49\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 130\OML/cmm/m/it/9 ; \OT1/cmr/m
+/n/9 189)[]\OML/cmm/m/it/9 ;[] rgb\OT1/cmr/m/n/9 (41\OML/cmm/m/it/9 ; \OT1/cmr/
+m/n/9 180\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 129)[]]\OML/cmm/m/it/9 foriinrange\OT
+1/cmr/m/n/9 (0\OML/cmm/m/it/9 ; len\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 test[]rror[]
+rray\OT1/cmr/m/n/9 )) :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1066 ...     name='Lambda = log(' + (str)(lamda_
+                                                  vals[i]) + ')',
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1072 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1080 #
+        ---------------------------------------Main function----------------...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1082 if _
+           _name__ == "__main__":
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1082 if __
+            name__ == "__main__":
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1082 if __name__
+                   == "__main__":
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1082 if __name__ == "__
+                         main__":
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1082 if __name__ == "__main__
+                               ":
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1084 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1084 
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1084 
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1084 
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1084 
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1086     N_
+             test = 2000
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1090 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1091     #
+            lamda_vals = [0]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1091     #lamda_
+                  vals = [0]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1092 ...[1000, 100, 10, 1, 0.1, 0.001, 0.0001] #
+                                                   regularization weightage ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.1093     norm = 2 #
+                      2 for l-2 norm, 1 for l-1 norm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1094 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (142.23389pt too wide) in paragraph at lines 1091--1094
+[]\T1/ptm/m/n/9 (-20) lamda$[]\OML/cmm/m/it/9 als \OT1/cmr/m/n/9 = [0]\OML/cmm/
+m/it/9 lamda[]als \OT1/cmr/m/n/9 = [1000\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 100\OM
+L/cmm/m/it/9 ; \OT1/cmr/m/n/9 10\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 1\OML/cmm/m/it
+/9 ; \OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 1\OML/cmm/m/it/9 ; \OT1/cm
+r/m/n/9 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 001\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 0\
+OML/cmm/m/it/9 :\OT1/cmr/m/n/9 0001]\OML/cmm/m/it/9 regularizationweightagepara
+meter:Put\OT1/cmr/m/n/9 [0]\OML/cmm/m/it/9 fornoregularizationnorm \OT1/cmr/m/n
+/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1095     full_
+                training_data, full_training_label, full_test_data, full_tes...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1096 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.03247pt too wide) in paragraph at lines 1095--1096
+[]\T1/ptm/m/n/9 (-20) full$[]\OML/cmm/m/it/9 raining[]ata; full[]raining[]abel;
+ full[]est[]ata; full[]est[]abel; full[]alidation[]ata; full[]alidation[]abel \
+OT1/cmr/m/n/9 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1097     #
+             Parameters for training data on 2's and 3's
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1099     training_
+                    data, training_label = extract_digit_specific_data(digit...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1103 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 1097--1103
+[]\T1/ptm/m/n/9 (+20) Parameters for train-ing data on 2's and 3's dig-its = 2:
+1, 3:0 training$[]\OML/cmm/m/it/9 ata; training[]abel \OT1/cmr/m/n/9 =
+ []
+
+
+Overfull \hbox (13.04776pt too wide) in paragraph at lines 1097--1103
+\OML/cmm/m/it/9 extract[]igit[]pecific[]ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digi
+ts; full[]raining[]ata; full[]raining[]abel\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 vali
+dation[]ata; validation[]abel \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1103
+\OML/cmm/m/it/9 extract[]igit[]pecific[]ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digi
+ts; full[]alidation[]ata; full[]alidation[]abel\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 
+test[]ata; test[]abel \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1104     weights23 = fit(training_
+                                    data, training_label, test_data, test_la...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1108 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (311.11217pt too wide) in paragraph at lines 1104--1108
+[]\T1/ptm/m/n/9 (-20) weights23 = fit(training$[]\OML/cmm/m/it/9 ata; training[
+]abel; test[]ata; test[]abel; validation[]ata; validation[]abel; learning[]ate;
+ iteration; batch[]ize; digits; T; lamda[]als; norm\OT1/cmr/m/n/9 )\OML/cmm/m/i
+t/9 plot[]eights\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights\OT1/cmr/m/n/9 23)$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1109     #
+             Parameters for training data on 2's and 8's
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1111     training_
+                    data, training_label = extract_digit_specific_data(digit...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1115     lamda_vals = [0] #
+                             Regularization not asked for with 2/8 case
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1116 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 1109--1116
+[]\T1/ptm/m/n/9 (+20) Parameters for train-ing data on 2's and 8's dig-its = 2:
+1, 8:0 training$[]\OML/cmm/m/it/9 ata; training[]abel \OT1/cmr/m/n/9 =
+ []
+
+
+Overfull \hbox (13.04776pt too wide) in paragraph at lines 1109--1116
+\OML/cmm/m/it/9 extract[]igit[]pecific[]ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digi
+ts; full[]raining[]ata; full[]raining[]abel\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 vali
+dation[]ata; validation[]abel \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1116
+\OML/cmm/m/it/9 extract[]igit[]pecific[]ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digi
+ts; full[]alidation[]ata; full[]alidation[]abel\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 
+test[]ata; test[]abel \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 1109--1116
+\OML/cmm/m/it/9 extract[]igit[]pecific[]ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 digi
+ts; full[]est[]ata; full[]est[]abel\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 learning[]at
+e \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 1\OML/cmm/m/it/9 lamda[]als
+ \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1117     weights28 = fit(training_
+                                    data, training_label, test_data, test_la...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1121 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (311.11217pt too wide) in paragraph at lines 1117--1121
+[]\T1/ptm/m/n/9 (-20) weights28 = fit(training$[]\OML/cmm/m/it/9 ata; training[
+]abel; test[]ata; test[]abel; validation[]ata; validation[]abel; digits; learni
+ng[]ate; iteration; batch[]ize; T; lamda[]als; norm\OT1/cmr/m/n/9 )\OML/cmm/m/i
+t/9 plot[]eights\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 weights\OT1/cmr/m/n/9 28)$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1124     plot_
+                weights(weights)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1125 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! Undefined control sequence.
+\lstlisting ->\def \lstenv@name 
+                                {lstlisting}\begingroup \lst@setcatcodes \ca...
+l.1126 \end{lstlisting}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Package Listings Error: Extra \endlstlisting.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1126 \end{lstlisting}
+                       
+I'm ignoring this, since I wasn't doing a \def {lstlisting}\begingroup \catcode
+ `\spacefactor \@m {}11\relax \catcode `\==12\relax \catcode \active =\active \
+lstlisting@.
+
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1126 \end{lstlisting}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.1126 \end{lstlisting}
+                       
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1128 Softmax_
+               Regression.py
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1129 \begin{lstlisting}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1129 \begin{lstlisting}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1129 \begin{lstlisting}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1129 \begin{lstlisting}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+\lst@GetLineInterval ...r \lst@GLI \lst@linerange 
+                                                  \@nil 
+l.1129 \begin{lstlisting}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+\@nil \lst@ifsensitive \else \let \lst@KeywordTest \lst@KEYWORDTEST \let \ETC.
+! Paragraph ended before \lst@GLI was complete.
+<to be read again> 
+                   \par 
+l.1137 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1138 from LoadMNIST import load_
+                                  mnist
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1139 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1140 #
+        ----------------------------------------Utility functions-----------...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1141 def get_
+               data(N, N_test):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1142     #
+            load MNIST data using libraries available
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1145 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1145
+[]\T1/ptm/m/n/9 (+20) ----------------------------------------Utility functions
+-------------------------------------- def
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 1140--1145
+\T1/ptm/m/n/9 (+20) get$[]\OML/cmm/m/it/9 ata\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 N;
+ N[]est\OT1/cmr/m/n/9 ) : \OML/cmm/m/it/9 loadMNISTdatausinglibrariesavailablet
+raining[]ata; training[]abels \OT1/cmr/m/n/9 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1146     training_
+                    data = flatArray(N, 784, training_data) #training_data i...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.1146 ...ata = flatArray(N, 784, training_data) #
+                                                  training_data is N x 784 m...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1150 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 1146--1150
+[]\T1/ptm/m/n/9 (+20) training$[]\OML/cmm/m/it/9 ata \OT1/cmr/m/n/9 = \OML/cmm/
+m/it/9 flatArray\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 N; \OT1/cmr/m/n/9 784\OML/cmm/m
+/it/9 ; training[]ata\OT1/cmr/m/n/9 )\OML/cmm/m/it/9 training[]ataisNx\OT1/cmr/
+m/n/9 784\OML/cmm/m/it/9 matrixtraining[]abels \OT1/cmr/m/n/9 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.1151     #
+             adding column of 1s for bias
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1152
